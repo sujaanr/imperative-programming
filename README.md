@@ -1,19 +1,19 @@
-# Sudoku Solver
+# sudoku solver
 
-This is a simple Sudoku solver implemented in C. It uses a backtracking algorithm to find a solution for a given Sudoku puzzle.
+this is a simple sudoku solver implemented in c. it uses a backtracking algorithm to find a solution for a given sudoku puzzle.
 
-## Features
+## features
 
-- Solves Sudoku puzzles of any difficulty level.
-- Uses a backtracking algorithm for efficient solving.
-- Supports 9x9 Sudoku grids.
+- solves sudoku puzzles of any difficulty level.
+- uses a backtracking algorithm for efficient solving.
+- supports 9x9 sudoku grids.
 
-## Sudoku Input Format
-- Use a 9x9 grid to represent the Sudoku puzzle.
-- Use 0 to represent empty cells.
-- Fill in the known numbers in the puzzle.
+## sudoku input format
+- use a 9x9 grid to represent the sudoku puzzle.
+- use 0 to represent empty cells.
+- fill in the known numbers in the puzzle.
 
-Example:
+example:
 
 0 0 0 0 0 0 0 9 0
 
